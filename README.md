@@ -1,2 +1,2 @@
-# Python
-Estudos de python
+# Estudando-Python
+ Processo de aprendizado de python.
